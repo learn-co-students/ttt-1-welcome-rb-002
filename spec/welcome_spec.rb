@@ -4,4 +4,4 @@ describe "lib/welcome.rb" do
     
     load './lib/welcome.rb'
   end
-end
+  end
